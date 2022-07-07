@@ -12,7 +12,7 @@
 pip install -r requirements.txt
 ```
 
-* Enter Your Discord Bot Token In `.env.example` Like This
+* Enter Your Discord Bot Token In `.env` Like This
 
 ```json
 TOKEN=YourBotTokenHere
