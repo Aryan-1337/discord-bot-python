@@ -25,6 +25,7 @@ TOKEN=YourBotTokenHere
   "tick":"<EmojiNameHere:EmojiIDHere>", # If Emoji Is Non-Animated
   "tick":"<a:EmojiNameHere:EmojiIDHere>" # If Emoji Is Animated
 }
+```
 * Start Your Discord Bot With This Command, Use This In Command Prompt or Windows Powershell or Terminal
 
 ```shell
