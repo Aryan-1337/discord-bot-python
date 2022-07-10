@@ -4,6 +4,19 @@ from nextcord.ext import commands
 import os
 from cogs.Misc import Misc
 
+
+# IMPORTING EMOJIS FROM config.json FILE
+with open("config.json","r") as emojis:
+    emoji = json.load(emojis)
+
+    tick = emoji["tick"]
+    cross = emoji["cross"]
+    ban = emoji["ban"]
+    kick = emoji["kick"]
+    user = emoji["user"]
+    reason = emoji["reason"]
+
+
 # TOKEN AND PREFIX
 TOKEN = os.getenv('TOKEN')
 PREFIX = "."
