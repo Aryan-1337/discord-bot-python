@@ -1,2 +1,2 @@
-# discord-bot-python
+# Discord Bot Python
 maybe later.
