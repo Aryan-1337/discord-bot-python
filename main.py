@@ -2,6 +2,7 @@
 import nextcord
 from nextcord.ext import commands
 import os
+import json
 from cogs.Misc import Misc
 
 
