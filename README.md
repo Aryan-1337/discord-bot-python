@@ -34,4 +34,4 @@ python main.py
 
 # Contact
 
-* Need Help Related This Repo? Dm Me On Discord: Aryan.#1337 or Join [**Discord Server**](https://discord.com/invite/dyc)
+* Need Help Related This Repo? Dm Me On Discord: Aryan.#3201 or Join [**Discord Server**](https://discord.com/invite/dyc)
